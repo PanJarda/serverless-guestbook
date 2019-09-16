@@ -1,7 +1,7 @@
 /**
  * Web application
  */
-const apiUrl = 'https://022e1bbc.eu-gb.apiconnect.appdomain.cloud/guestbook';
+const apiUrl = 'https://5849e1d9.eu-gb.apiconnect.appdomain.cloud/guestbook';
 const guestbook = {
   // retrieve the existing guestbook entries
   get() {
